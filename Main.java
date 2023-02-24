@@ -1,5 +1,4 @@
-/*Write a program to check whether a number is divisible by 5 and 11 or not
- * Check to see if the numbers are divisible by 12
+/* Wrote a program to check whether a number is divisible by 5, 11, or 12.
  */
 
 import java.util.Scanner;
