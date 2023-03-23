@@ -1,9 +1,11 @@
 /* Write a java program that requires the end user to enter 6 variables. 
  * These variables are to be 3 integers and 3 strings. 
  		* For the integers
- 			* Pass the values to a method, performing a calculation can be any expression, multiply divide whatever. You are to then print the output. 
+ 			* Pass the values to a method, performing a calculation can be any expression, 
+			* multiply divide whatever. You are to then print the output. 
  		* For the strings
- 			* Create three methods and pass the strings, 1 method to count the length, 1 method to compare the three strings, and 1 method to make all uppercase. 
+ 			* Create three methods and pass the strings, 1 method to count the length, 1 
+			* method to compare the three strings, and 1 method to make all uppercase. 
 */
 import java.util.Scanner;
 
