@@ -1,4 +1,4 @@
-﻿/* 1.Create a function that takes two numbers as arguments and returns their sum.*/
+﻿/* 1. Create a function that takes two numbers as arguments and returns their sum.*/
 
 using System;
 using static System.Console;
